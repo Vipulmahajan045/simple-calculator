@@ -1,3 +1,13 @@
+body{
+    background-color: sandybrown;
+}
+#border{
+    /* width: 500px;
+    height: 500px; */
+    /* text-align: center; */
+    border: 2px solid black;
+    
+}
 input{
     width: 50px;
     height: 50px;
@@ -11,10 +21,11 @@ input{
 #myform{
     margin-left: 475px;
     margin-top:  20px; 
-    /* border: medium solid purple; */
+    /* border: 2px solid black; */
 }
 
 h1{
+    color: white;
     text-align: center;
     font-size: 60px;
     /* margin-right: 150px; */
